@@ -63,7 +63,7 @@ enemy.draw();
 
 console.log(player)
 
-
+//joguinho
 
 
 function animate() {
